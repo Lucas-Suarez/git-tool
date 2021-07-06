@@ -34,6 +34,20 @@ pacman -S git
 dnf install git
 ```
 
+## Configurando o git na sua máquina
+
+```
+git config --global user.name "Seu nome" -> Registrando o Nome
+```
+
+```
+git config --global user.email "Seu email" -> Registrando o email
+```
+
+```
+git config --global user.password "Sua senha" -> Registrando o Nome
+```
+
 ## Inicializando um Repositório em um Diretório Existente
 
 Caso você esteja iniciando o monitoramento de um projeto existente com Git, você precisa ir para o diretório do projeto e digitar.
