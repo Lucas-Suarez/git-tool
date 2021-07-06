@@ -45,7 +45,7 @@ git config --global user.email "Seu email" -> Registrando o email
 ```
 
 ```
-git config --global user.password "Sua senha" -> Registrando o Nome
+git config --global user.password "Sua senha" -> Registrando a senha
 ```
 
 ## Inicializando um Repositório em um Diretório Existente
